@@ -132,4 +132,3 @@ results/summary.example.json
 results/report.md
 ```
 
-其中 `results/judged_results.json` 是本地运行时生成/更新的文件，默认不提交到 GitHub。
