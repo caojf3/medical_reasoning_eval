@@ -1,0 +1,88 @@
+{
+  "total_results": 20,
+  "valid_score_results": 20,
+  "models": {
+    "DeepSeek": {
+      "count": 5,
+      "valid_score_count": 5,
+      "average_score": 4.4,
+      "usable_rate": 1.0,
+      "score_distribution": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 3
+      }
+    },
+    "GPT": {
+      "count": 5,
+      "valid_score_count": 5,
+      "average_score": 5.0,
+      "usable_rate": 1.0,
+      "score_distribution": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 5
+      }
+    },
+    "Kimi": {
+      "count": 5,
+      "valid_score_count": 5,
+      "average_score": 4.8,
+      "usable_rate": 1.0,
+      "score_distribution": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 4
+      }
+    },
+    "Qwen": {
+      "count": 5,
+      "valid_score_count": 5,
+      "average_score": 4.0,
+      "usable_rate": 0.8,
+      "score_distribution": {
+        "1": 0,
+        "2": 0,
+        "3": 2,
+        "4": 1,
+        "5": 2
+      }
+    }
+  },
+  "questions": {
+    "MR-001": {
+      "valid_score_count": 4,
+      "average_score": 3.75
+    },
+    "MR-002": {
+      "valid_score_count": 4,
+      "average_score": 5.0
+    },
+    "MR-003": {
+      "valid_score_count": 4,
+      "average_score": 4.75
+    },
+    "MR-004": {
+      "valid_score_count": 4,
+      "average_score": 4.25
+    },
+    "MR-005": {
+      "valid_score_count": 4,
+      "average_score": 5.0
+    }
+  },
+  "common_error_tags": {
+    "未优先推荐甲状腺功能检查": 1,
+    "过度诊断ACS并给予潜在危险的抗栓治疗": 1,
+    "给出具体处方剂量存在医疗风险": 1
+  },
+  "common_fatal_errors": {
+    "在面对高血压急症合并急性肺水肿、未明确排除主动脉夹层且急性冠脉综合征诊断不明确的情况下，建议了具体的抗血小板和抗凝药物负荷量（阿司匹林300mg+替格瑞洛180mg+肝素泵入），存在导致出血、夹层破裂或延误正确治疗的风险。": 1
+  }
+}
